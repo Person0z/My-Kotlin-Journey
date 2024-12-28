@@ -36,6 +36,7 @@ fun main() {
     println(letter)
     println(isWorking)
     println(sentence)
+    
 
     // Practice
     val a: Int = 1000 // Again a val can never be changed unlike a var which can be changed later in the code

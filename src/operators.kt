@@ -130,7 +130,7 @@ fun inOperator() {
     if (randomNumber in numbers) {
         println("Success + $numbers")
     } else {
-        println("fail: $randomNumber and $number")
+        println("fail: $randomNumber and $numbers")
     }
 
 }

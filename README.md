@@ -8,6 +8,7 @@ I have decided to learn Kotlin, a language used in Android App Development that 
 I'm learning from YouTube and the official Kotlin docs. All YouTube playlists, videos, and other sources, which I'll list below!
 
 **YouTube:**
+- [Kotlin in 100 seconds - Fireship](https://www.youtube.com/watch?v=xT8oP0wy-A0)
 - [Full Kotlin Tutorial - Indently](https://www.youtube.com/playlist?list=PL4KX3oEgJcfdjrEV4wyPChT5A9GDJIoRh)
 
 **Websites:**

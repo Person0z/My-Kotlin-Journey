@@ -10,6 +10,7 @@ I'm learning from YouTube and the official Kotlin docs. All YouTube playlists, v
 **YouTube:**
 - [Kotlin in 100 seconds - Fireship](https://www.youtube.com/watch?v=xT8oP0wy-A0)
 - [Full Kotlin Tutorial - Indently](https://www.youtube.com/playlist?list=PL4KX3oEgJcfdjrEV4wyPChT5A9GDJIoRh)
+- [Learn Kotlin Programming – Full Course for Beginners](https://www.youtube.com/watch?v=EExSSotojVI)
 
 **Websites:**
 - [Kotlin Offical Docs](https://kotlinlang.org/docs/kotlin-tour-hello-world.html)

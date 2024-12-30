@@ -1,3 +1,5 @@
+package Full_Kotlin_Tutorial_Indently
+
 var item = "Hammer" // Can be changed
 var item2: String = "Hammer"
 // I don't need to put that it is a string as Kotlin already does that for me, however, I can put it if I want to.

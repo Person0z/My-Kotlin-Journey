@@ -1,11 +1,11 @@
 // This is a combination of lessons 1, 2, 3, and 4. All of these are put together to make
-// and apply to something so I can learn, as doing is the only way to learn
-// and so i can remember.
+// and apply to something, so I can learn, as doing is the only way to learn,
+// and so I can remember.
 //
 // This program is me making a fast food which has a name, menu, and customers who buy food
 
-val storeName: String = "Burger King"
-var storeMenu = mutableListOf<String>("Burger", "Fries", "Chicken Sandwich", "Double Whooper")
+const val storeName: String = "Burger King"
+var storeMenu = mutableListOf("Burger", "Fries", "Chicken Sandwich", "Double Whooper")
 var totalCustomers: Int = 0
 var totalBurgers: Int = 50 // Inventory of Burger King
 var totalFries: Int = 25 // Inventory of Burger King
@@ -29,16 +29,32 @@ fun main() {
 
 fun burgerStock() { // Check Burger stock, if burger stock is less than or equal to 0 then they are out
     if (totalBurgers <= 0) {
-        println("Sorry we are out of stock on Burgers")
+        println("Sorry we are out of stock on Burger!s")
     } else {
-        println("Sure, I can get a fries for you!")
+        println("Burgers are in stock!")
     }
 }
 
 fun friesStock() { // Same as burger stock but with fries
     if (totalFries <= 0) {
-        println("Sorry we are out of fries")
+        println("Sorry we are out of fries!")
     } else {
-        println("I'd be more than happy to get some fries for you!")
+        println("Fries are in stock!")
+    }
+}
+
+fun whooperStock() { // check whooper stock
+    if (totalWhooper <= 0) {
+        println("Sorry we are out of stock on Whoopers")
+    } else {
+        println("Whoopers are in stock!")
+    }
+}
+
+fun chickenSandwichStock() { // check chicken sandwich stock
+    if (totalChickenSandwich <= 0) {
+        println("Sorry we are out of stock on Chicken Sandwiches")
+    } else {
+        println("Chicken Sandwiches are in stock!")
     }
 }

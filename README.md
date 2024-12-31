@@ -14,3 +14,4 @@ I'm learning from YouTube and the official Kotlin docs. All YouTube playlists, v
 
 **Websites:**
 - [Kotlin Offical Docs](https://kotlinlang.org/docs/kotlin-tour-hello-world.html)
+- [Typealias](https://typealias.com/start/kotlin-variables-expressions-types/)
